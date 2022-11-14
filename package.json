@@ -1,0 +1,25 @@
+{
+  "name": "aync-landing",
+  "version": "1.0.0",
+  "description": "Project of Platzi",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatiRivarola/aync-landing.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Matias Rivarola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatiRivarola/aync-landing/issues"
+  },
+  "homepage": "https://github.com/MatiRivarola/aync-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
